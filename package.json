@@ -1,0 +1,25 @@
+{
+  "name": "reto9",
+  "version": "1.0.0",
+  "description": "Carlos Andrés Torres E. - 201815476",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catorrese/reto9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catorrese/reto9/issues"
+  },
+  "homepage": "https://github.com/catorrese/reto9#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^3.6.6"
+  }
+}
